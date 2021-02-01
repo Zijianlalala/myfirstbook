@@ -15,4 +15,7 @@
 * [数据库](database/README.md)
 * [其他技术](other-technique/README.md)
   * [Redis](other-technique/redis.md)
+* [设计模式](design-pattern/README.md)
+  * [单例模式](design-pattern/single-pattern.md)
+
   
