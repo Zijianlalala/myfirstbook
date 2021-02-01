@@ -13,3 +13,6 @@
 * [操作系统](operating-system/README.md)
   * [进程/线程相关](operating-system/process-thread.md)
 * [数据库](database/README.md)
+* [其他技术](other-technique/README.md)
+  * [Redis](other-technique/redis.md)
+  
