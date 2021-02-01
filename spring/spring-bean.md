@@ -13,3 +13,13 @@
 2. 初始化
 3. 使用
 4. 销毁
+
+## 定义继承
+可以定义一个父`bean`的定义作为模板，其他的子Bean可以从父Bean中继承所需要的配置。
+
+```
+<bean id="xxx" class="xxx" parent="xx">
+    xxx
+</bean>
+
+```
