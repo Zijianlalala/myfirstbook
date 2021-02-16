@@ -20,4 +20,6 @@
   * [单例模式](design-pattern/single-pattern.md)
 * [Spring](spring/README.md)
   * [Spring Bean](spring/spring-bean.md)
+  * [Spring依赖注入](spring/spring-di.md)
+  * [Spring注解](spring/spring-annotation.md)
   
