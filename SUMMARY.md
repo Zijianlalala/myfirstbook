@@ -14,6 +14,7 @@
   * [进程/线程相关](operating-system/process-thread.md)
 * [数据库](database/README.md)
   * [MyBatis](database/mybatis.md)
+  * [MySQL](database/mysql.md)
 * [其他技术](other-technique/README.md)
   * [Redis](other-technique/redis.md)
 * [设计模式](design-pattern/README.md)
