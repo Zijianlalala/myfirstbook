@@ -1,6 +1,14 @@
 # 同步相关
 有关多线程的问题
 
+## 参考博客
+![从ReentrantLock的实现看AQS的原理及应用](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
+
+![Java线程池实现原理及其在美团业务中的实践](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
+
+![不可不说的Java“锁”事](https://tech.meituan.com/2018/11/15/java-lock.html)
+
+![synchronized 实现原理](https://xiaomi-info.github.io/2020/03/24/synchronized/)
 ## 概念
 编发编程的特性
 1. 原子性
